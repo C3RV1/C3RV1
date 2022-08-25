@@ -1,7 +1,12 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=C3RV1&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C3RV1&layout=compact&theme=dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @C3RV1
-- 👀 I’m interested in python and pygame
-- 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on games
+- 👀 I’m interested in python, pygame, game development and NDS homebrew!
+- 🌱 I’m currently learning networking and assembly (completely lost)
 - 📫 How to reach me: Cervi#1915(Discord)
 
 <!---
