@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning networking and assembly (completely lost)
 - 📫 How to reach me: Cervi#1915(Discord)
 
+PS. I hate light theme :)
+
 <!---
 C3RV1/C3RV1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
