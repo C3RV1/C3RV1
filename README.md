@@ -4,6 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C3RV1&layout=compact&theme=dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C3RV1)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @C3RV1
 - 👀 I’m interested in python, pygame, game development and NDS homebrew!
 - 🌱 I’m currently learning networking and assembly (completely lost)
