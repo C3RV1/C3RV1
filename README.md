@@ -1,10 +1,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=C3RV1&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C3RV1&layout=compact&theme=dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=C3RV1&layout=compact&theme=dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C3RV1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=C3RV1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m @C3RV1
