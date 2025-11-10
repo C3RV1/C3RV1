@@ -10,9 +10,10 @@
 - 👋 Hi, I’m @C3RV1
 - 👀 I’m interested in python, pygame, game development and NDS homebrew!
 - 🌱 I’m currently learning networking and assembly (completely lost)
-- 📫 How to reach me: Cervi#1915(Discord)
+- 📫 How to reach me: Cervi#1915(Discord), gmail.com [<-] cervilla.alex
 
-PS. I hate light theme :)
+Kind of inactive in here over the last couple years, sadly... Will get back to my personal projects once I get a little break from
+studying.
 
 <!---
 C3RV1/C3RV1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
