@@ -10,7 +10,7 @@
 - 👋 Hi, I’m @C3RV1
 - 👀 I’m interested in python, pygame, game development and NDS homebrew!
 - 🌱 I’m currently learning networking and assembly (completely lost)
-- 📫 How to reach me: Cervi#1915(Discord), gmail.com [<-] cervilla.alex
+- 📫 How to reach me: Cervi#1915(Discord), cervilla.alex@gmail.com
 
 Kind of inactive in here over the last couple years, sadly... Will get back to my personal projects once I get a little break from
 studying.
